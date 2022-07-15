@@ -1,0 +1,22 @@
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+#evento-marca{
+    background-color: #0a1039;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+#evento-marca img{
+    max-width: 100%;   
+}
+
+main{
+    margin-top: 90px;
+}
+h2{
+    text-align: center;
+}
